@@ -1,4 +1,4 @@
-# ai-by-hand-excel
+# ai-by-hand-excel 
 
 AI by Hand ✍️ Exercises in Excel
 
